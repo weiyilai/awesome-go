@@ -224,6 +224,7 @@ _Libraries for building actor-based programs._
 
 _Libraries for building programs that leverage AI._
 
+- [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 - [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
@@ -2154,7 +2155,7 @@ _Unofficial libraries for package and dependency management._
 - [johnny-deps](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
 - [modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language.
 - [mvn-golang](https://github.com/raydac/mvn-golang) - plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure.
-- [nut](https://github.com/jingweno/nut) - Vendor Go dependencies.
+- [syft](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 - [VenGO](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
 **[⬆ back to top](#contents)**
